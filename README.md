@@ -1,2 +1,2 @@
-*Fun*
-*Its Just a basic JS snippet*
+<h1> Note.
+*Its just a babystep effort related to JS"
