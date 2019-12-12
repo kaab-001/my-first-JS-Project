@@ -1,2 +1,2 @@
-#Fun
-#Its Just a basic JS snippet.
+*Fun*
+*Its Just a basic JS snippet*
