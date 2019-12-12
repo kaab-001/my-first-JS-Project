@@ -1,2 +1,2 @@
 #Fun
-Its Just a basic JS snippet.
+#Its Just a basic JS snippet.
